@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          repository: 'main'
+          ref: 'main'
 
       - name: Conventional commit check
         uses: cocogitto/cocogitto-action@v3
