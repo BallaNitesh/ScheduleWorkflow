@@ -2,7 +2,7 @@ name: Release Tagging
 
 on:
   schedule:
-    - cron: '00 14 * * *'
+    - cron: '4 14 * * *'
 
 jobs:
   cog_check_job:
