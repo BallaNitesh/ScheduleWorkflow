@@ -1,4 +1,8 @@
-on: [push]
+name: Release Tagging
+
+on:
+  schedule:
+    - cron:  '*/5 * * * *'
 
 jobs:
   cog_check_job:
@@ -7,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          repository: 'main'
 
       - name: Conventional commit check
         uses: cocogitto/cocogitto-action@v3
