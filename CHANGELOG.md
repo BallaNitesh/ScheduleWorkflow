@@ -2,6 +2,30 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.0 - 2023-07-01
+#### Bug Fixes
+- added change for semver release - (0b576fc) - Nitesh Balla
+- added change for semver release - (6e1dd95) - Nitesh Balla
+#### Features
+- added cog.toml - (5edc6a8) - Nitesh Balla
+- added cog.toml - (664ae45) - Nitesh Balla
+- added change for semver release - (87970f5) - Nitesh Balla
+- added a new commit - (86578fb) - Nitesh Balla
+- added a new commit - (c2c54f3) - Nitesh Balla
+- added a new commit - (d2d670d) - Nitesh Balla
+- added a new commit - (3979fd9) - Nitesh Balla
+- added a new commit - (e2b5cfe) - Nitesh Balla
+- added a new commit - (14b14cc) - Nitesh Balla
+- added a new commit - (e40ae6a) - Nitesh Balla
+- added a new commit - (28e4a65) - Nitesh Balla
+- added a new commit - (38b67f0) - Nitesh Balla
+- added a new commit - (ef8061b) - Nitesh Balla
+- added a new commit - (b5041a3) - Nitesh Balla
+- added a new commit - (4abd277) - Nitesh Balla
+- added a new commit - (4a7cf98) - Nitesh Balla
+
+- - -
+
 ## 0.1.0 - 2023-07-01
 #### Features
 - added schedule cron workflow - (4f28dd8) - Nitesh Balla
