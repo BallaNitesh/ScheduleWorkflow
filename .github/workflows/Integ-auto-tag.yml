@@ -1,8 +1,6 @@
 name: Release Tagging
 
-on:
-  schedule:
-    - cron: "30 16 * * *"
+on: [push]
 
 release:
   name: Perform release
