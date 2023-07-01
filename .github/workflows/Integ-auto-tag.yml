@@ -2,14 +2,15 @@ name: Release Tagging
 
 on:
   schedule:
-    - cron:  '41 13 * * *'
+    - cron: '47 13 * * *'
 
 jobs:
   cog_check_job:
     runs-on: ubuntu-latest
-    name: check conventional commit compliance
+    name: Check conventional commit compliance
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
         with:
           ref: 'main'
 
