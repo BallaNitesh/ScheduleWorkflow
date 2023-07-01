@@ -1,8 +1,6 @@
 name: Release Tagging
 
-on:
-  schedule:
-    - cron: '*/5 * * * *'
+on: [push]
 
 jobs:
   cog_check_job:
