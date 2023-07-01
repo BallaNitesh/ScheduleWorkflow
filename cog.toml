@@ -9,7 +9,3 @@ post_bump_hooks = [
     "git push origin {{version}}",
 ]
 
-[changelog]
-generate = false
-path = "CHANGELOG.md"
-
