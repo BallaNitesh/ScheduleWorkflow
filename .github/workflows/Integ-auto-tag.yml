@@ -2,7 +2,7 @@ name: Release Tagging
 
 on:
   schedule:
-    - cron: '51 13 * * *'
+    - cron: '55 13 * * *'
 
 jobs:
   cog_check_job:
@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          path: main
+          ref: main
       - name: Conventional commit check
         uses: cocogitto/cocogitto-action@v3
