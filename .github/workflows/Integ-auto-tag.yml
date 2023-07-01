@@ -14,5 +14,5 @@ jobs:
         with:
           fetch-depth: 0
           ref: main
-      - name: Conventional commit check
-        uses: cocogitto/cocogitto-action@v3
+      - name: SemVer Release
+        uses: cocogitto/cocogitto-action@main
