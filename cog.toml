@@ -1,0 +1,15 @@
+# File: cog.toml
+pre_bump_hooks = [
+    "echo {{version}}",
+]
+
+
+post_bump_hooks = [
+    "git push",
+    "git push origin {{version}}",
+]
+
+[changelog]
+generate = false
+path = "CHANGELOG.md"
+
