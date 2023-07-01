@@ -2,6 +2,18 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.3.0 - 2023-07-01
+#### Features
+- added cog.toml - (13f42d1) - Nitesh Balla
+- added cog.toml - (ad5c32b) - Nitesh Balla
+- added cog.toml - (843f389) - Nitesh Balla
+- added cog.toml - (16c6ea3) - Nitesh Balla
+- added cog.toml - (88347b7) - Nitesh Balla
+- added cog.toml - (1879068) - Nitesh Balla
+- added cog.toml - (5b4e842) - Nitesh Balla
+- added cog.toml - (312212a) - Nitesh Balla
+- - -
+
 ## 0.2.0 - 2023-07-01
 #### Bug Fixes
 - added change for semver release - (0b576fc) - Nitesh Balla
