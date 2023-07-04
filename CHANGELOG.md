@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [0.8.1](https://github.com/cocogitto/cocogitto/compare/0.8.0..0.8.1) - 2023-07-04
+#### Bug Fixes
+- added custom template - ([e380253](https://github.com/cocogitto/cocogitto/commit/e38025313cbee75dde1a8c262c60c826b4528ec6)) - Nitesh Balla
+
+- - -
+
 ## [0.8.0](https://github.com/cocogitto/cocogitto/compare/0.7.0..0.8.0) - 2023-07-04
 #### Features
 - added custom template - ([a892d4b](https://github.com/cocogitto/cocogitto/commit/a892d4bd486382321576e21cbd1951194e7554c1)) - Nitesh Balla
