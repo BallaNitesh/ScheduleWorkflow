@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.6.0 - 2023-07-04
+#### Features
+- some change - (38026ac) - Nitesh Balla
+- - -
+
 ## 0.2.0 - 2023-07-01
 #### Bug Fixes
 - added change for semver release - (0b576fc) - Nitesh Balla
