@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.8.0 - 2023-07-04
+#### Features
+- Scheduled - (e2a5103) - Nitesh Balla
+- - -
+
 ## 0.7.0 - 2023-07-04
 #### Features
 - adding some change - (b1e2f12) - Nitesh Balla
