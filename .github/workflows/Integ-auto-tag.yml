@@ -33,5 +33,5 @@ jobs:
       - name: Upload GitHub release 
         uses: softprops/action-gh-release@v1
         with:
-          body: CHANGELOG.md
+          body_path: CHANGELOG.md
           tag_name: ${{ steps.release.outputs.version }}
