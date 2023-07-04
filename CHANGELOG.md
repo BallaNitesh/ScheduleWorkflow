@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [0.10.0](https://github.com/cocogitto/cocogitto/compare/0.9.0..0.10.0) - 2023-07-04
+#### Features
+- fixed - ([3123651](https://github.com/cocogitto/cocogitto/commit/3123651d9e5c47315700b2b6d889ccd24ea1b673)) - [@oknozor](https://github.com/oknozor)
+
+- - -
+
 ## [0.9.0](https://github.com/cocogitto/cocogitto/compare/0.8.1..0.9.0) - 2023-07-04
 #### Features
 - fixed - ([fd84bc9](https://github.com/cocogitto/cocogitto/commit/fd84bc9999a2f305b52a4073896d10f09f1dfb1e)) - [@oknozor](https://github.com/oknozor)
