@@ -30,7 +30,7 @@ jobs:
         env:
           OUTPUT: CHANGELOG.md
 
-      - name: Upload GitHub release 
+      - name: Upload GitHub release
         uses: softprops/action-gh-release@v1
         with:
           body_path: CHANGELOG.md
