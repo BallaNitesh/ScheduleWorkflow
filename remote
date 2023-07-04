@@ -4,9 +4,9 @@
     {% for scope, scoped_commits in typed_commits | group_by(attribute="scope") %}                                      
         {% for commit in scoped_commits | sort(attribute="scope") %}                                                    
             {% if commit.author %}                                                                                      
-                {% set author = "@" ~ commit.username %}                                                                  
+                {% set author = "@" ~ authors[commit.email] %}                                                                  
             {% else %}                                                                                                  
-                {% set author = commit.signature %}                                                                     
+                {% set author = authors[commit.signature] %}                                                                     
             {% endif %}                                                                                                 
             - {{ commit.id }} - **({{ scope }})** {{ commit.summary }} - {{ author }}
         {% endfor %}                                                                                                    
